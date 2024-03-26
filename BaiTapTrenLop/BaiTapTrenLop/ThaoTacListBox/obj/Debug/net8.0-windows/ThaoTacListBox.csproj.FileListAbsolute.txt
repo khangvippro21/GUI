@@ -1,0 +1,16 @@
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\bin\Debug\net8.0-windows\ThaoTacListBox.exe
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\bin\Debug\net8.0-windows\ThaoTacListBox.deps.json
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\bin\Debug\net8.0-windows\ThaoTacListBox.runtimeconfig.json
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\bin\Debug\net8.0-windows\ThaoTacListBox.dll
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\bin\Debug\net8.0-windows\ThaoTacListBox.pdb
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\obj\Debug\net8.0-windows\ThaoTacListBox.Form1.resources
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\obj\Debug\net8.0-windows\ThaoTacListBox.csproj.GenerateResource.cache
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\obj\Debug\net8.0-windows\ThaoTacListBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\obj\Debug\net8.0-windows\ThaoTacListBox.AssemblyInfoInputs.cache
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\obj\Debug\net8.0-windows\ThaoTacListBox.AssemblyInfo.cs
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\obj\Debug\net8.0-windows\ThaoTacListBox.csproj.CoreCompileInputs.cache
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\obj\Debug\net8.0-windows\ThaoTacListBox.dll
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\obj\Debug\net8.0-windows\refint\ThaoTacListBox.dll
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\obj\Debug\net8.0-windows\ThaoTacListBox.pdb
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\obj\Debug\net8.0-windows\ThaoTacListBox.genruntimeconfig.cache
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\ThaoTacListBox\obj\Debug\net8.0-windows\ref\ThaoTacListBox.dll

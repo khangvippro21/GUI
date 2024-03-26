@@ -1,0 +1,16 @@
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\bin\Debug\net8.0-windows\BaiTapTrenLop.exe
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\bin\Debug\net8.0-windows\BaiTapTrenLop.deps.json
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\bin\Debug\net8.0-windows\BaiTapTrenLop.runtimeconfig.json
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\bin\Debug\net8.0-windows\BaiTapTrenLop.dll
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\bin\Debug\net8.0-windows\BaiTapTrenLop.pdb
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\net8.0-windows\BaiTapTrenLop.Form1.resources
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\net8.0-windows\BaiTapTrenLop.csproj.GenerateResource.cache
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\net8.0-windows\BaiTapTrenLop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\net8.0-windows\BaiTapTrenLop.AssemblyInfoInputs.cache
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\net8.0-windows\BaiTapTrenLop.AssemblyInfo.cs
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\net8.0-windows\BaiTapTrenLop.csproj.CoreCompileInputs.cache
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\net8.0-windows\BaiTapTrenLop.dll
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\net8.0-windows\refint\BaiTapTrenLop.dll
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\net8.0-windows\BaiTapTrenLop.pdb
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\net8.0-windows\BaiTapTrenLop.genruntimeconfig.cache
+D:\Học hành\LapTrinhGiaoDien\Code\BaiTapTrenLop\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\net8.0-windows\ref\BaiTapTrenLop.dll
